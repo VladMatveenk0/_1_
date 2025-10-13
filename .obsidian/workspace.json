@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "875ba5ff75eab41b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb7323e21144addb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cba255b7c06107fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "День/Возможные улики пропал артефакт с аукциона.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Возможные улики пропал артефакт с аукциона"
+            }
+          },
+          {
+            "id": "1844d200e34e346d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdb22aae0e1265b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b01c3373d7e0bb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "986d87f9c4b9a012",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7e824884786fee37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e1fa6fcb939faf73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4589ce1c396cef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6a6e4535d7e57de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11bfa1b7dc65a743",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без названия.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Без названия"
+            }
+          },
+          {
+            "id": "8a46754471a86c3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "14ea376c9af7778a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3810a4db4f9a8d1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Без названия"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "cba255b7c06107fd",
+  "lastOpenFiles": [
+    "README.md",
+    "День/Событие-пропал артефакт с аукциона.md",
+    "День/Начало.md",
+    "День/Возможные улики пропал артефакт с аукциона.md",
+    "картинки",
+    "картинки/bd486f786188e90d75ede6965cf5d301.jpg",
+    "хант для сашки.jpg",
+    "День/Сценарий_1_.canvas",
+    "Начало.md",
+    "Без названия 1.md",
+    "День",
+    "Добро пожаловать.md",
+    "Geyrn 2/Geyrn 1.md",
+    "Без названия.base",
+    "Geyrn 2"
+  ]
+}
