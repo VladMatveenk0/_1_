@@ -1,24 +1,55 @@
 {
   "main": {
-    "id": "875ba5ff75eab41b",
+    "id": "f02de9a930bbbf89",
     "type": "split",
     "children": [
       {
-        "id": "eb7323e21144addb",
+        "id": "8f19fb4bfb7a4a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "6e3e80b9370ae093",
+            "id": "9284b090dfe71807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "День_1/Возможные улики пропал артефакт с аукциона.md",
+                "file": "Сюжет 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Возможные улики пропал артефакт с аукциона"
+              "title": "Сюжет 2"
+            }
+          },
+          {
+            "id": "db55ed9080f6522c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глубоководные.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Глубоководные"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b15c2f7ded9b3bb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33c327d81fc67c59",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -27,15 +58,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cdb22aae0e1265b9",
+    "id": "694bc96f4c53d06a",
     "type": "split",
     "children": [
       {
-        "id": "5b01c3373d7e0bb4",
+        "id": "ae7dd6bce4c6795f",
         "type": "tabs",
         "children": [
           {
-            "id": "986d87f9c4b9a012",
+            "id": "608a43f32eb78ae9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +79,7 @@
             }
           },
           {
-            "id": "7e824884786fee37",
+            "id": "6adf3f523c18a358",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +96,7 @@
             }
           },
           {
-            "id": "e1fa6fcb939faf73",
+            "id": "ff8840419299541a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,51 +109,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 300
   },
   "right": {
-    "id": "c4589ce1c396cef6",
+    "id": "255d4228a278ab45",
     "type": "split",
     "children": [
       {
-        "id": "a6a6e4535d7e57de",
+        "id": "2c2b8e5b14028299",
         "type": "tabs",
         "children": [
           {
-            "id": "11bfa1b7dc65a743",
+            "id": "379be03e6ebb52b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ночь_0/Начало_0.md",
+                "file": "Сюжет 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Начало_0"
+              "title": "Обратные ссылки для Сюжет 3"
             }
           },
           {
-            "id": "8a46754471a86c3a",
+            "id": "6ff6201769ba8230",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.base",
+                "file": "Сюжет 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Исходящие ссылки из Сюжет 3"
             }
           },
           {
-            "id": "14ea376c9af7778a",
+            "id": "97d14a648fbf9b60",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +168,18 @@
             }
           },
           {
-            "id": "3810a4db4f9a8d1b",
+            "id": "77fa961bd7555dec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.base",
+                "file": "Персонажи.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Персонажи"
             }
           }
         ]
@@ -169,47 +200,22 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "6e3e80b9370ae093",
+  "active": "db55ed9080f6522c",
   "lastOpenFiles": [
-    "День_1/Аристократ обращается за помощью.md",
-    "День_1/Возможные улики пропал артефакт с аукциона.md",
-    "День_1/Итог_1.md",
-    "День_1/настоящая кража.md",
-    "День_1/Начало_1.md",
-    "День_1/Ночь последствия.md",
-    "День_1/подсказка от барда 'побочка'.md",
-    "День_1/Ритуал.md",
-    "День_1/Событие-пропал артефакт с аукциона.md",
-    "День_1/Таинственные похищения.md",
-    "День_1/Украли еще 1 артефакт с аукциона.md",
-    "Персонажи/Помощник распорядителя.png",
-    "Персонажи/Официант аукциона.png",
-    "Персонажи/Начальник полиции.png",
-    "Персонажи/Дворецкий.png",
-    "Персонажи/Распорядитель.png",
-    "Персонажи/Работник аукциона.png",
-    "Ханты/Саша/Хант Сыщик Саши.md",
-    "Ханты/Саша/Сыщик Саши.png",
-    "Ханты/Саша/Печать зла.png",
-    "Ночь_0/Начало_0.md",
-    "Без названия.canvas",
-    "Ночь_0",
-    "Ханты/Саша",
-    "Ханты",
-    "картинки/Артефакты/48199bb5543fb8a1b2c3770cc09c2479.jpg",
-    "картинки/Артефакты/bd486f786188e90d75ede6965cf5d301.jpg",
-    "картинки/Шахта",
-    "README.md",
-    "Персонажи",
-    "картинки/Артефакты",
-    "картинки/Особняк Лорда Альдреда Вейра",
-    "Юниты",
-    "картинки",
-    "День/Сценарий_1_.canvas",
-    "Начало.md",
-    "Без названия 1.md",
-    "День_1",
-    "Добро пожаловать.md",
-    "Geyrn 2/Geyrn 1.md"
+    "Сюжет 3.md",
+    "Pasted image 20251228172238.png",
+    "Сюжет 1.md",
+    "Сюжет 2.md",
+    "Персонажи.md",
+    "Глубоководные.md",
+    "Pasted image 20251228181430.png",
+    "Pasted image 20251228180700.png",
+    "Pasted image 20251228180638.png",
+    "Pasted image 20251228175922.png",
+    "Pasted image 20251228175405.png",
+    "Pasted image 20251228175329.png",
+    "Pasted image 20251228172837.png",
+    "Pasted image 20251228170002.png",
+    "Pasted image 20251228165821.png"
   ]
 }
