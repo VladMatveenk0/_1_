@@ -8,76 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1703718ae4af5fb",
+            "id": "310c0e5b68bce90a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coc_Lighthouse/Глубоководные.md",
+                "file": "Coc_Asylum/Сюжет 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глубоководные"
-            }
-          },
-          {
-            "id": "0266a416a1dec5f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coc_Lighthouse/Оборотни.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Оборотни"
-            }
-          },
-          {
-            "id": "8ff2d2f64b9aaf1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coc_Asylum/График больных.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "График больных"
-            }
-          },
-          {
-            "id": "4de2bd286c726694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coc_Asylum/График больных.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "График больных"
+              "title": "Сюжет 2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "57b1615285154222",
+        "id": "36b480d04fda9c3d",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3cf5763fd313dc",
+            "id": "0230dab9abdfcfda",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Coc_Asylum/График больных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "График больных"
             }
           }
         ]
@@ -228,9 +189,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4de2bd286c726694",
+  "active": "310c0e5b68bce90a",
   "lastOpenFiles": [
     "Coc_Asylum/Сюжет 1.md",
+<<<<<<< HEAD
+=======
+    "Coc_Asylum/Сюжет 2.md",
+    "Coc_Asylum/Без названия.canvas",
+>>>>>>> a49ad5d9449f5d987d97c8260ab3d958b091f1d0
     "Coc_Lighthouse/Сюжет 4.md",
     "2025-12-29.md",
     "Coc_Asylum/График больных.md",
