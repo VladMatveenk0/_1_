@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fate_character_generation/Магия 1.md",
+                "file": "Fate_character_generation/Персонаж.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Магия 1"
+              "title": "Персонаж"
+            }
+          },
+          {
+            "id": "a107bc761303d05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fate_character_generation/Персонаж.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Персонаж"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,30 +181,31 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "eeeae50afcfc114e",
+  "active": "a107bc761303d05e",
   "lastOpenFiles": [
     "Fate_character_generation/Cтатблок.md",
-    "Fate_character_generation/Уникальные навыки.md",
+    "Fate_character_generation/Персонаж.md",
+    "Fate_character_generation/Правила.md",
+    "Fate_character_generation/Слуги. Статблоки/Ассасин.md",
+    "Fate_character_generation/Слуги. Статблоки/Берсеркер.md",
+    "Fate_character_generation/Слуги. Статблоки/Арчер.md",
+    "Fate_character_generation/Слуги. Статблоки/Райдер.md",
+    "Fate_character_generation/Слуги. Статблоки/Сейбер.md",
+    "Fate_character_generation/Слуги. Статблоки/Кастер.md",
+    "Fate_character_generation/Слуги. Статблоки/Лансер.md",
+    "Fate_character_generation/Роль.md",
     "Fate_character_generation/таблица статов слуг для d100.md",
+    "Fate_character_generation/Мировоззрение.md",
+    "Fate_character_generation/Резиденция.md",
+    "Fate_character_generation/Уникальные навыки.md",
     "Fate_character_generation/таблица статов слуг для d20.md",
     "Fate_character_generation/Слуги и командные заклинания.md",
-    "Fate_character_generation/Роль.md",
-    "Fate_character_generation/Резиденция.md",
-    "Fate_character_generation/Персонаж.md",
-    "Fate_character_generation/Навыки.md",
-    "Fate_character_generation/Мировоззрение.md",
     "Fate_character_generation/Магия 1.md",
-    "Fate_character_generation/Слуги. Статблоки/Берсеркер.md",
-    "Fate_character_generation/Слуги. Статблоки/Ассасин.md",
-    "Fate_character_generation/Слуги. Статблоки/Арчер.md",
-    "Fate_character_generation/Слуги. Статблоки/Кастер.md",
+    "Fate_character_generation/Навыки.md",
     "Правила.md",
     "README.md",
     "Fate_character_generation/Статблок.md",
     "Fate_character_generation/Слуги. Статблоки/Без названия.base",
-    "Fate_character_generation/Слуги. Статблоки/Райдер.md",
-    "Fate_character_generation/Слуги. Статблоки/Сейбер.md",
-    "Fate_character_generation/Слуги. Статблоки/Лансер.md",
     "2025-12-29.md",
     "Fate_character_generation/Слуги. Статблоки",
     "Без названия 1.md",
