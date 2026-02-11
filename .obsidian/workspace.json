@@ -9,17 +9,17 @@
         "dimension": 68.18885448916409,
         "children": [
           {
-            "id": "a107bc761303d05e",
+            "id": "872947b73a9857fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fate_character_generation/Навыки.md",
+                "file": "Fate_character_generation/Магия 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Навыки"
+              "title": "Магия 1"
             }
           }
         ]
@@ -184,27 +184,28 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a107bc761303d05e",
+  "active": "872947b73a9857fb",
   "lastOpenFiles": [
     "Fate_character_generation/Персонаж.md",
-    "Fate_character_generation/Правила.md",
     "Fate_character_generation/Навыки.md",
+    "Fate_character_generation/Мировоззрение.md",
+    "Fate_character_generation/Магия 1.md",
     "Fate_character_generation/Cтатблок.md",
-    "Fate_character_generation/Уникальные навыки.md",
-    "Fate_character_generation/таблица статов слуг для d100.md",
-    "Fate_character_generation/таблица статов слуг для d20.md",
     "Fate_character_generation/Слуги и командные заклинания.md",
+    "Fate_character_generation/Уникальные навыки.md",
+    "Fate_character_generation/Фантазм.md",
+    "Fate_character_generation/таблица статов слуг для d100.md",
+    "Fate_character_generation/Слуги. Статблоки/Лансер.md",
     "Fate_character_generation/Роль.md",
     "Fate_character_generation/Резиденция.md",
+    "Fate_character_generation/Правила.md",
+    "Fate_character_generation/таблица статов слуг для d20.md",
     "Fate_character_generation/Слуги. Статблоки/Ассасин.md",
     "Fate_character_generation/Слуги. Статблоки/Берсеркер.md",
     "Fate_character_generation/Слуги. Статблоки/Арчер.md",
     "Fate_character_generation/Слуги. Статблоки/Райдер.md",
     "Fate_character_generation/Слуги. Статблоки/Сейбер.md",
     "Fate_character_generation/Слуги. Статблоки/Кастер.md",
-    "Fate_character_generation/Слуги. Статблоки/Лансер.md",
-    "Fate_character_generation/Мировоззрение.md",
-    "Fate_character_generation/Магия 1.md",
     "Правила.md",
     "README.md",
     "Fate_character_generation/Статблок.md",
