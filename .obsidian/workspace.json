@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fate_character_generation/Магия 1.md",
+                "file": "Fate_character_generation/Навыки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Магия 1"
+              "title": "Навыки"
             }
           }
         ]
@@ -186,20 +186,20 @@
   },
   "active": "872947b73a9857fb",
   "lastOpenFiles": [
-    "Fate_character_generation/Персонаж.md",
-    "Fate_character_generation/Навыки.md",
     "Fate_character_generation/Мировоззрение.md",
     "Fate_character_generation/Магия 1.md",
-    "Fate_character_generation/Cтатблок.md",
-    "Fate_character_generation/Слуги и командные заклинания.md",
-    "Fate_character_generation/Уникальные навыки.md",
-    "Fate_character_generation/Фантазм.md",
-    "Fate_character_generation/таблица статов слуг для d100.md",
-    "Fate_character_generation/Слуги. Статблоки/Лансер.md",
-    "Fate_character_generation/Роль.md",
+    "Fate_character_generation/Персонаж.md",
     "Fate_character_generation/Резиденция.md",
     "Fate_character_generation/Правила.md",
+    "Fate_character_generation/Слуги и командные заклинания.md",
+    "Fate_character_generation/Роль.md",
+    "Fate_character_generation/Навыки.md",
     "Fate_character_generation/таблица статов слуг для d20.md",
+    "Fate_character_generation/Фантазм.md",
+    "Fate_character_generation/Уникальные навыки.md",
+    "Fate_character_generation/Cтатблок.md",
+    "Fate_character_generation/таблица статов слуг для d100.md",
+    "Fate_character_generation/Слуги. Статблоки/Лансер.md",
     "Fate_character_generation/Слуги. Статблоки/Ассасин.md",
     "Fate_character_generation/Слуги. Статблоки/Берсеркер.md",
     "Fate_character_generation/Слуги. Статблоки/Арчер.md",
