@@ -4,41 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0f6add5d1cded6ac",
+        "id": "57d21b272be5efe4",
         "type": "tabs",
         "children": [
           {
-            "id": "0ec824a518322977",
+            "id": "1cc263cbba69c009",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fate_character_generation/Слуги. Статблоки/Кастер.md",
+                "file": "Fate_character_generation/Фантазм.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кастер"
+              "title": "Фантазм"
             }
           }
         ]
       },
       {
-        "id": "a9d6162469a2f8d5",
+        "id": "c48cf15811958857",
         "type": "tabs",
         "children": [
           {
-            "id": "744d0135d2918209",
+            "id": "db35a603c5ca0e2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fate_character_generation/Тайвин.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Тайвин"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -186,18 +182,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "0ec824a518322977",
+  "active": "1cc263cbba69c009",
   "lastOpenFiles": [
-    "Fate_character_generation/Тайвин.md",
-    "Fate_character_generation/Слуги. Статблоки/Арчер.md",
+    "Fate_character_generation/Тайвин_нпс.md",
+    "Fate_character_generation/Список нпсов.md",
     "Fate_character_generation/Никон_нпс.md",
-    "Fate_character_generation/Уникальные навыки.md",
+    "Fate_character_generation/Персонаж.md",
+    "Fate_character_generation/Резиденция.md",
+    "Fate_character_generation/НПС",
     "Fate_character_generation/Слуги. Статблоки/Кастер.md",
+    "Fate_character_generation/Слуги. Статблоки/Арчер.md",
+    "Fate_character_generation/Уникальные навыки.md",
     "Fate_character_generation/таблица статов слуг для d100.md",
     "Fate_character_generation/Слуги и командные заклинания.md",
     "Fate_character_generation/Cтатблок.md",
     "Fate_character_generation/Навыки.md",
-    "Fate_character_generation/Персонаж.md",
     "Fate_character_generation/Правила.md",
     "Fate_character_generation/Роль.md",
     "Fate_character_generation/Фантазм.md",
@@ -205,7 +204,6 @@
     "Fate_character_generation/Персонаж 1.md",
     "Fate_character_generation/Магия 1.md",
     "Fate_character_generation/Приколист_fate.md",
-    "Fate_character_generation/Резиденция.md",
     "Fate_character_generation/таблица статов слуг для d20.md",
     "Fate_character_generation/Слуги. Статблоки/Лансер.md",
     "Fate_character_generation/Слуги. Статблоки/Ассасин.md",
@@ -213,7 +211,6 @@
     "Fate_character_generation/Слуги. Статблоки/Райдер.md",
     "Fate_character_generation/Слуги. Статблоки/Сейбер.md",
     "Правила.md",
-    "README.md",
     "Fate_character_generation/Слуги. Статблоки/Без названия.base",
     "Fate_character_generation/Слуги. Статблоки",
     "Fate_character_generation"
