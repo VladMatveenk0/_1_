@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7399ae81dc0c8bff",
+            "id": "1d6eebb00111e5dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fate_character_generation/Игроки/Саша 2.md",
+                "file": "Fate_character_generation/Оружие.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Саша 2"
+              "title": "Оружие"
+            }
+          },
+          {
+            "id": "e9294cb7d3aa9961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fate_character_generation/Уникальные навыки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Уникальные навыки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,37 +181,37 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "7399ae81dc0c8bff",
+  "active": "e9294cb7d3aa9961",
   "lastOpenFiles": [
-    "Fate_character_generation/Магия 1.md",
-    "README.md",
-    "Fate_character_generation/Слуги. Статблоки/Арчер.md",
-    "Fate_character_generation/Игроки/Саша 2.md",
-    "Fate_character_generation/Игроки",
     "Fate_character_generation/Игроки/Саша.md",
-    "Fate_character_generation/Cтатблок.md",
-    "Fate_character_generation/Персонаж.md",
-    "Fate_character_generation/Навыки.md",
-    "Fate_character_generation/Слуги и командные заклинания.md",
-    "Fate_character_generation/Роль.md",
-    "Fate_character_generation/Уникальные навыки.md",
-    "Fate_character_generation/Правила.md",
+    "Fate_character_generation/Игроки/Олег.md",
+    "Fate_character_generation/Слуги. Статблоки/Ассасин.md",
     "Fate_character_generation/таблица статов слуг для d100.md",
+    "README.md",
+    "Инфоповоды.md",
     "Fate_character_generation/Оружие.md",
-    "Fate_character_generation/Нпс",
-    "Fate_character_generation/Мировоззрение.md",
-    "Fate_character_generation/Фантазм.md",
+    "Fate_character_generation/Игроки/Глеб.md",
+    "Fate_character_generation/Слуги и командные заклинания.md",
+    "Fate_character_generation/Слуги. Статблоки/Берсеркер.md",
+    "Fate_character_generation/Cтатблок.md",
+    "Fate_character_generation/Уникальные навыки.md",
+    "Fate_character_generation/Магия.md",
+    "Fate_character_generation/Навыки.md",
+    "Fate_character_generation/Правила.md",
+    "Fate_character_generation/Роль.md",
+    "Fate_character_generation/Персонаж.md",
     "Fate_character_generation/Нпс/Тайвин_нпс.md",
+    "Fate_character_generation/Мировоззрение.md",
+    "Fate_character_generation/Игроки/Саша 2.md",
+    "Fate_character_generation/Магия 1.md",
+    "Fate_character_generation/Слуги. Статблоки/Арчер.md",
+    "Fate_character_generation/Игроки",
+    "Fate_character_generation/Нпс",
+    "Fate_character_generation/Фантазм.md",
     "Fate_character_generation/Список нпсов.md",
     "Fate_character_generation/Нпс/Никон_нпс.md",
     "Fate_character_generation/Резиденция.md",
     "Fate_character_generation/НПС",
-    "Fate_character_generation/Слуги. Статблоки/Кастер.md",
-    "Fate_character_generation/Персонаж 1.md",
-    "Fate_character_generation/Нпс/Приколист_fate.md",
-    "Fate_character_generation/таблица статов слуг для d20.md",
-    "Fate_character_generation/Слуги. Статблоки/Лансер.md",
-    "Fate_character_generation/Слуги. Статблоки/Ассасин.md",
     "Fate_character_generation/Слуги. Статблоки/Без названия.base",
     "Fate_character_generation/Слуги. Статблоки",
     "Fate_character_generation"
